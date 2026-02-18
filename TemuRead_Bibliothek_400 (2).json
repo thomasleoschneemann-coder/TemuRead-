@@ -1,0 +1,3004 @@
+{
+  "books": [
+    {
+      "id": "pd_1",
+      "title": "Rotkäppchen",
+      "author": "Brüder Grimm",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_1.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10001.epub.images"
+    },
+    {
+      "id": "pd_2",
+      "title": "Hänsel und Gretel",
+      "author": "Brüder Grimm",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_2.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10002.epub.images"
+    },
+    {
+      "id": "pd_3",
+      "title": "Alice im Wunderland",
+      "author": "Lewis Carroll",
+      "category": "Kinder/Fantasy",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_3.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10003.epub.images"
+    },
+    {
+      "id": "pd_4",
+      "title": "Die kleine Meerjungfrau",
+      "author": "Hans Christian Andersen",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_4.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10004.epub.images"
+    },
+    {
+      "id": "pd_5",
+      "title": "Der gestiefelte Kater",
+      "author": "Charles Perrault",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_5.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10005.epub.images"
+    },
+    {
+      "id": "pd_6",
+      "title": "Die Schöne und das Biest",
+      "author": "Charles Perrault",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_6.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10006.epub.images"
+    },
+    {
+      "id": "pd_7",
+      "title": "Der Zauberer von Oz",
+      "author": "L. Frank Baum",
+      "category": "Fantasy",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_7.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10007.epub.images"
+    },
+    {
+      "id": "pd_8",
+      "title": "Peter Pan",
+      "author": "J. M. Barrie",
+      "category": "Kinder/Fantasy",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_8.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10008.epub.images"
+    },
+    {
+      "id": "pd_9",
+      "title": "Der König der Löwen",
+      "author": "Public Domain",
+      "category": "Abenteuer",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_9.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10009.epub.images"
+    },
+    {
+      "id": "pd_10",
+      "title": "Der Wind in den Weiden",
+      "author": "Kenneth Grahame",
+      "category": "Kinder/Fantasy",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_10.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10010.epub.images"
+    },
+    {
+      "id": "pd_11",
+      "title": "Rotkäppchen",
+      "author": "Brüder Grimm",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_11.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10011.epub.images"
+    },
+    {
+      "id": "pd_12",
+      "title": "Hänsel und Gretel",
+      "author": "Brüder Grimm",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_12.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10012.epub.images"
+    },
+    {
+      "id": "pd_13",
+      "title": "Alice im Wunderland",
+      "author": "Lewis Carroll",
+      "category": "Kinder/Fantasy",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_13.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10013.epub.images"
+    },
+    {
+      "id": "pd_14",
+      "title": "Die kleine Meerjungfrau",
+      "author": "Hans Christian Andersen",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_14.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10014.epub.images"
+    },
+    {
+      "id": "pd_15",
+      "title": "Der gestiefelte Kater",
+      "author": "Charles Perrault",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_15.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10015.epub.images"
+    },
+    {
+      "id": "pd_16",
+      "title": "Die Schöne und das Biest",
+      "author": "Charles Perrault",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_16.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10016.epub.images"
+    },
+    {
+      "id": "pd_17",
+      "title": "Der Zauberer von Oz",
+      "author": "L. Frank Baum",
+      "category": "Fantasy",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_17.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10017.epub.images"
+    },
+    {
+      "id": "pd_18",
+      "title": "Peter Pan",
+      "author": "J. M. Barrie",
+      "category": "Kinder/Fantasy",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_18.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10018.epub.images"
+    },
+    {
+      "id": "pd_19",
+      "title": "Der König der Löwen",
+      "author": "Public Domain",
+      "category": "Abenteuer",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_19.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10019.epub.images"
+    },
+    {
+      "id": "pd_20",
+      "title": "Der Wind in den Weiden",
+      "author": "Kenneth Grahame",
+      "category": "Kinder/Fantasy",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_20.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10020.epub.images"
+    },
+    {
+      "id": "pd_21",
+      "title": "Rotkäppchen",
+      "author": "Brüder Grimm",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_21.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10021.epub.images"
+    },
+    {
+      "id": "pd_22",
+      "title": "Hänsel und Gretel",
+      "author": "Brüder Grimm",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_22.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10022.epub.images"
+    },
+    {
+      "id": "pd_23",
+      "title": "Alice im Wunderland",
+      "author": "Lewis Carroll",
+      "category": "Kinder/Fantasy",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_23.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10023.epub.images"
+    },
+    {
+      "id": "pd_24",
+      "title": "Die kleine Meerjungfrau",
+      "author": "Hans Christian Andersen",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_24.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10024.epub.images"
+    },
+    {
+      "id": "pd_25",
+      "title": "Der gestiefelte Kater",
+      "author": "Charles Perrault",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_25.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10025.epub.images"
+    },
+    {
+      "id": "pd_26",
+      "title": "Die Schöne und das Biest",
+      "author": "Charles Perrault",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_26.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10026.epub.images"
+    },
+    {
+      "id": "pd_27",
+      "title": "Der Zauberer von Oz",
+      "author": "L. Frank Baum",
+      "category": "Fantasy",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_27.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10027.epub.images"
+    },
+    {
+      "id": "pd_28",
+      "title": "Peter Pan",
+      "author": "J. M. Barrie",
+      "category": "Kinder/Fantasy",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_28.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10028.epub.images"
+    },
+    {
+      "id": "pd_29",
+      "title": "Der König der Löwen",
+      "author": "Public Domain",
+      "category": "Abenteuer",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_29.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10029.epub.images"
+    },
+    {
+      "id": "pd_30",
+      "title": "Der Wind in den Weiden",
+      "author": "Kenneth Grahame",
+      "category": "Kinder/Fantasy",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_30.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10030.epub.images"
+    },
+    {
+      "id": "pd_31",
+      "title": "Rotkäppchen",
+      "author": "Brüder Grimm",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_31.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10031.epub.images"
+    },
+    {
+      "id": "pd_32",
+      "title": "Hänsel und Gretel",
+      "author": "Brüder Grimm",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_32.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10032.epub.images"
+    },
+    {
+      "id": "pd_33",
+      "title": "Alice im Wunderland",
+      "author": "Lewis Carroll",
+      "category": "Kinder/Fantasy",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_33.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10033.epub.images"
+    },
+    {
+      "id": "pd_34",
+      "title": "Die kleine Meerjungfrau",
+      "author": "Hans Christian Andersen",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_34.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10034.epub.images"
+    },
+    {
+      "id": "pd_35",
+      "title": "Der gestiefelte Kater",
+      "author": "Charles Perrault",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_35.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10035.epub.images"
+    },
+    {
+      "id": "pd_36",
+      "title": "Die Schöne und das Biest",
+      "author": "Charles Perrault",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_36.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10036.epub.images"
+    },
+    {
+      "id": "pd_37",
+      "title": "Der Zauberer von Oz",
+      "author": "L. Frank Baum",
+      "category": "Fantasy",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_37.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10037.epub.images"
+    },
+    {
+      "id": "pd_38",
+      "title": "Peter Pan",
+      "author": "J. M. Barrie",
+      "category": "Kinder/Fantasy",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_38.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10038.epub.images"
+    },
+    {
+      "id": "pd_39",
+      "title": "Der König der Löwen",
+      "author": "Public Domain",
+      "category": "Abenteuer",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_39.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10039.epub.images"
+    },
+    {
+      "id": "pd_40",
+      "title": "Der Wind in den Weiden",
+      "author": "Kenneth Grahame",
+      "category": "Kinder/Fantasy",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_40.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10040.epub.images"
+    },
+    {
+      "id": "pd_41",
+      "title": "Rotkäppchen",
+      "author": "Brüder Grimm",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_41.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10041.epub.images"
+    },
+    {
+      "id": "pd_42",
+      "title": "Hänsel und Gretel",
+      "author": "Brüder Grimm",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_42.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10042.epub.images"
+    },
+    {
+      "id": "pd_43",
+      "title": "Alice im Wunderland",
+      "author": "Lewis Carroll",
+      "category": "Kinder/Fantasy",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_43.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10043.epub.images"
+    },
+    {
+      "id": "pd_44",
+      "title": "Die kleine Meerjungfrau",
+      "author": "Hans Christian Andersen",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_44.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10044.epub.images"
+    },
+    {
+      "id": "pd_45",
+      "title": "Der gestiefelte Kater",
+      "author": "Charles Perrault",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_45.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10045.epub.images"
+    },
+    {
+      "id": "pd_46",
+      "title": "Die Schöne und das Biest",
+      "author": "Charles Perrault",
+      "category": "Märchen",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_46.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10046.epub.images"
+    },
+    {
+      "id": "pd_47",
+      "title": "Der Zauberer von Oz",
+      "author": "L. Frank Baum",
+      "category": "Fantasy",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_47.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10047.epub.images"
+    },
+    {
+      "id": "pd_48",
+      "title": "Peter Pan",
+      "author": "J. M. Barrie",
+      "category": "Kinder/Fantasy",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_48.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10048.epub.images"
+    },
+    {
+      "id": "pd_49",
+      "title": "Der König der Löwen",
+      "author": "Public Domain",
+      "category": "Abenteuer",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_49.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10049.epub.images"
+    },
+    {
+      "id": "pd_50",
+      "title": "Der Wind in den Weiden",
+      "author": "Kenneth Grahame",
+      "category": "Kinder/Fantasy",
+      "type": "public_domain",
+      "price": 0.0,
+      "coverUrl": "https://example.com/covers/pd_50.jpg",
+      "fileUrl": "https://www.gutenberg.org/ebooks/10050.epub.images"
+    },
+    {
+      "id": "indie_1",
+      "title": "Indie-Fantasy-Titel 1",
+      "author": "Autor 1",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_1.jpg",
+      "fileUrl": "https://example.com/epub/indie_1.epub"
+    },
+    {
+      "id": "indie_2",
+      "title": "Indie-Fantasy-Titel 2",
+      "author": "Autor 2",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_2.jpg",
+      "fileUrl": "https://example.com/epub/indie_2.epub"
+    },
+    {
+      "id": "indie_3",
+      "title": "Indie-Fantasy-Titel 3",
+      "author": "Autor 3",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_3.jpg",
+      "fileUrl": "https://example.com/epub/indie_3.epub"
+    },
+    {
+      "id": "indie_4",
+      "title": "Indie-Fantasy-Titel 4",
+      "author": "Autor 4",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_4.jpg",
+      "fileUrl": "https://example.com/epub/indie_4.epub"
+    },
+    {
+      "id": "indie_5",
+      "title": "Indie-Fantasy-Titel 5",
+      "author": "Autor 5",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_5.jpg",
+      "fileUrl": "https://example.com/epub/indie_5.epub"
+    },
+    {
+      "id": "indie_6",
+      "title": "Indie-Fantasy-Titel 6",
+      "author": "Autor 6",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_6.jpg",
+      "fileUrl": "https://example.com/epub/indie_6.epub"
+    },
+    {
+      "id": "indie_7",
+      "title": "Indie-Fantasy-Titel 7",
+      "author": "Autor 7",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_7.jpg",
+      "fileUrl": "https://example.com/epub/indie_7.epub"
+    },
+    {
+      "id": "indie_8",
+      "title": "Indie-Fantasy-Titel 8",
+      "author": "Autor 8",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_8.jpg",
+      "fileUrl": "https://example.com/epub/indie_8.epub"
+    },
+    {
+      "id": "indie_9",
+      "title": "Indie-Fantasy-Titel 9",
+      "author": "Autor 9",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_9.jpg",
+      "fileUrl": "https://example.com/epub/indie_9.epub"
+    },
+    {
+      "id": "indie_10",
+      "title": "Indie-Fantasy-Titel 10",
+      "author": "Autor 10",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_10.jpg",
+      "fileUrl": "https://example.com/epub/indie_10.epub"
+    },
+    {
+      "id": "indie_11",
+      "title": "Indie-Fantasy-Titel 11",
+      "author": "Autor 11",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_11.jpg",
+      "fileUrl": "https://example.com/epub/indie_11.epub"
+    },
+    {
+      "id": "indie_12",
+      "title": "Indie-Fantasy-Titel 12",
+      "author": "Autor 12",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_12.jpg",
+      "fileUrl": "https://example.com/epub/indie_12.epub"
+    },
+    {
+      "id": "indie_13",
+      "title": "Indie-Fantasy-Titel 13",
+      "author": "Autor 13",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_13.jpg",
+      "fileUrl": "https://example.com/epub/indie_13.epub"
+    },
+    {
+      "id": "indie_14",
+      "title": "Indie-Fantasy-Titel 14",
+      "author": "Autor 14",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_14.jpg",
+      "fileUrl": "https://example.com/epub/indie_14.epub"
+    },
+    {
+      "id": "indie_15",
+      "title": "Indie-Fantasy-Titel 15",
+      "author": "Autor 15",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_15.jpg",
+      "fileUrl": "https://example.com/epub/indie_15.epub"
+    },
+    {
+      "id": "indie_16",
+      "title": "Indie-Fantasy-Titel 16",
+      "author": "Autor 16",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_16.jpg",
+      "fileUrl": "https://example.com/epub/indie_16.epub"
+    },
+    {
+      "id": "indie_17",
+      "title": "Indie-Fantasy-Titel 17",
+      "author": "Autor 17",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_17.jpg",
+      "fileUrl": "https://example.com/epub/indie_17.epub"
+    },
+    {
+      "id": "indie_18",
+      "title": "Indie-Fantasy-Titel 18",
+      "author": "Autor 18",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_18.jpg",
+      "fileUrl": "https://example.com/epub/indie_18.epub"
+    },
+    {
+      "id": "indie_19",
+      "title": "Indie-Fantasy-Titel 19",
+      "author": "Autor 19",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_19.jpg",
+      "fileUrl": "https://example.com/epub/indie_19.epub"
+    },
+    {
+      "id": "indie_20",
+      "title": "Indie-Fantasy-Titel 20",
+      "author": "Autor 20",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_20.jpg",
+      "fileUrl": "https://example.com/epub/indie_20.epub"
+    },
+    {
+      "id": "indie_21",
+      "title": "Indie-Fantasy-Titel 21",
+      "author": "Autor 21",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_21.jpg",
+      "fileUrl": "https://example.com/epub/indie_21.epub"
+    },
+    {
+      "id": "indie_22",
+      "title": "Indie-Fantasy-Titel 22",
+      "author": "Autor 22",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_22.jpg",
+      "fileUrl": "https://example.com/epub/indie_22.epub"
+    },
+    {
+      "id": "indie_23",
+      "title": "Indie-Fantasy-Titel 23",
+      "author": "Autor 23",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_23.jpg",
+      "fileUrl": "https://example.com/epub/indie_23.epub"
+    },
+    {
+      "id": "indie_24",
+      "title": "Indie-Fantasy-Titel 24",
+      "author": "Autor 24",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_24.jpg",
+      "fileUrl": "https://example.com/epub/indie_24.epub"
+    },
+    {
+      "id": "indie_25",
+      "title": "Indie-Fantasy-Titel 25",
+      "author": "Autor 25",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_25.jpg",
+      "fileUrl": "https://example.com/epub/indie_25.epub"
+    },
+    {
+      "id": "indie_26",
+      "title": "Indie-Fantasy-Titel 26",
+      "author": "Autor 26",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_26.jpg",
+      "fileUrl": "https://example.com/epub/indie_26.epub"
+    },
+    {
+      "id": "indie_27",
+      "title": "Indie-Fantasy-Titel 27",
+      "author": "Autor 27",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_27.jpg",
+      "fileUrl": "https://example.com/epub/indie_27.epub"
+    },
+    {
+      "id": "indie_28",
+      "title": "Indie-Fantasy-Titel 28",
+      "author": "Autor 28",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_28.jpg",
+      "fileUrl": "https://example.com/epub/indie_28.epub"
+    },
+    {
+      "id": "indie_29",
+      "title": "Indie-Fantasy-Titel 29",
+      "author": "Autor 29",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_29.jpg",
+      "fileUrl": "https://example.com/epub/indie_29.epub"
+    },
+    {
+      "id": "indie_30",
+      "title": "Indie-Fantasy-Titel 30",
+      "author": "Autor 30",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_30.jpg",
+      "fileUrl": "https://example.com/epub/indie_30.epub"
+    },
+    {
+      "id": "indie_31",
+      "title": "Indie-Fantasy-Titel 31",
+      "author": "Autor 31",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_31.jpg",
+      "fileUrl": "https://example.com/epub/indie_31.epub"
+    },
+    {
+      "id": "indie_32",
+      "title": "Indie-Fantasy-Titel 32",
+      "author": "Autor 32",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_32.jpg",
+      "fileUrl": "https://example.com/epub/indie_32.epub"
+    },
+    {
+      "id": "indie_33",
+      "title": "Indie-Fantasy-Titel 33",
+      "author": "Autor 33",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_33.jpg",
+      "fileUrl": "https://example.com/epub/indie_33.epub"
+    },
+    {
+      "id": "indie_34",
+      "title": "Indie-Fantasy-Titel 34",
+      "author": "Autor 34",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_34.jpg",
+      "fileUrl": "https://example.com/epub/indie_34.epub"
+    },
+    {
+      "id": "indie_35",
+      "title": "Indie-Fantasy-Titel 35",
+      "author": "Autor 35",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_35.jpg",
+      "fileUrl": "https://example.com/epub/indie_35.epub"
+    },
+    {
+      "id": "indie_36",
+      "title": "Indie-Fantasy-Titel 36",
+      "author": "Autor 36",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_36.jpg",
+      "fileUrl": "https://example.com/epub/indie_36.epub"
+    },
+    {
+      "id": "indie_37",
+      "title": "Indie-Fantasy-Titel 37",
+      "author": "Autor 37",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_37.jpg",
+      "fileUrl": "https://example.com/epub/indie_37.epub"
+    },
+    {
+      "id": "indie_38",
+      "title": "Indie-Fantasy-Titel 38",
+      "author": "Autor 38",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_38.jpg",
+      "fileUrl": "https://example.com/epub/indie_38.epub"
+    },
+    {
+      "id": "indie_39",
+      "title": "Indie-Fantasy-Titel 39",
+      "author": "Autor 39",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_39.jpg",
+      "fileUrl": "https://example.com/epub/indie_39.epub"
+    },
+    {
+      "id": "indie_40",
+      "title": "Indie-Fantasy-Titel 40",
+      "author": "Autor 40",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_40.jpg",
+      "fileUrl": "https://example.com/epub/indie_40.epub"
+    },
+    {
+      "id": "indie_41",
+      "title": "Indie-Fantasy-Titel 41",
+      "author": "Autor 41",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_41.jpg",
+      "fileUrl": "https://example.com/epub/indie_41.epub"
+    },
+    {
+      "id": "indie_42",
+      "title": "Indie-Fantasy-Titel 42",
+      "author": "Autor 42",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_42.jpg",
+      "fileUrl": "https://example.com/epub/indie_42.epub"
+    },
+    {
+      "id": "indie_43",
+      "title": "Indie-Fantasy-Titel 43",
+      "author": "Autor 43",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_43.jpg",
+      "fileUrl": "https://example.com/epub/indie_43.epub"
+    },
+    {
+      "id": "indie_44",
+      "title": "Indie-Fantasy-Titel 44",
+      "author": "Autor 44",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_44.jpg",
+      "fileUrl": "https://example.com/epub/indie_44.epub"
+    },
+    {
+      "id": "indie_45",
+      "title": "Indie-Fantasy-Titel 45",
+      "author": "Autor 45",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_45.jpg",
+      "fileUrl": "https://example.com/epub/indie_45.epub"
+    },
+    {
+      "id": "indie_46",
+      "title": "Indie-Fantasy-Titel 46",
+      "author": "Autor 46",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_46.jpg",
+      "fileUrl": "https://example.com/epub/indie_46.epub"
+    },
+    {
+      "id": "indie_47",
+      "title": "Indie-Fantasy-Titel 47",
+      "author": "Autor 47",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_47.jpg",
+      "fileUrl": "https://example.com/epub/indie_47.epub"
+    },
+    {
+      "id": "indie_48",
+      "title": "Indie-Fantasy-Titel 48",
+      "author": "Autor 48",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_48.jpg",
+      "fileUrl": "https://example.com/epub/indie_48.epub"
+    },
+    {
+      "id": "indie_49",
+      "title": "Indie-Fantasy-Titel 49",
+      "author": "Autor 49",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_49.jpg",
+      "fileUrl": "https://example.com/epub/indie_49.epub"
+    },
+    {
+      "id": "indie_50",
+      "title": "Indie-Fantasy-Titel 50",
+      "author": "Autor 50",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_50.jpg",
+      "fileUrl": "https://example.com/epub/indie_50.epub"
+    },
+    {
+      "id": "indie_51",
+      "title": "Indie-Fantasy-Titel 51",
+      "author": "Autor 51",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_51.jpg",
+      "fileUrl": "https://example.com/epub/indie_51.epub"
+    },
+    {
+      "id": "indie_52",
+      "title": "Indie-Fantasy-Titel 52",
+      "author": "Autor 52",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_52.jpg",
+      "fileUrl": "https://example.com/epub/indie_52.epub"
+    },
+    {
+      "id": "indie_53",
+      "title": "Indie-Fantasy-Titel 53",
+      "author": "Autor 53",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_53.jpg",
+      "fileUrl": "https://example.com/epub/indie_53.epub"
+    },
+    {
+      "id": "indie_54",
+      "title": "Indie-Fantasy-Titel 54",
+      "author": "Autor 54",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_54.jpg",
+      "fileUrl": "https://example.com/epub/indie_54.epub"
+    },
+    {
+      "id": "indie_55",
+      "title": "Indie-Fantasy-Titel 55",
+      "author": "Autor 55",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_55.jpg",
+      "fileUrl": "https://example.com/epub/indie_55.epub"
+    },
+    {
+      "id": "indie_56",
+      "title": "Indie-Fantasy-Titel 56",
+      "author": "Autor 56",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_56.jpg",
+      "fileUrl": "https://example.com/epub/indie_56.epub"
+    },
+    {
+      "id": "indie_57",
+      "title": "Indie-Fantasy-Titel 57",
+      "author": "Autor 57",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_57.jpg",
+      "fileUrl": "https://example.com/epub/indie_57.epub"
+    },
+    {
+      "id": "indie_58",
+      "title": "Indie-Fantasy-Titel 58",
+      "author": "Autor 58",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_58.jpg",
+      "fileUrl": "https://example.com/epub/indie_58.epub"
+    },
+    {
+      "id": "indie_59",
+      "title": "Indie-Fantasy-Titel 59",
+      "author": "Autor 59",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_59.jpg",
+      "fileUrl": "https://example.com/epub/indie_59.epub"
+    },
+    {
+      "id": "indie_60",
+      "title": "Indie-Fantasy-Titel 60",
+      "author": "Autor 60",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_60.jpg",
+      "fileUrl": "https://example.com/epub/indie_60.epub"
+    },
+    {
+      "id": "indie_61",
+      "title": "Indie-Fantasy-Titel 61",
+      "author": "Autor 61",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_61.jpg",
+      "fileUrl": "https://example.com/epub/indie_61.epub"
+    },
+    {
+      "id": "indie_62",
+      "title": "Indie-Fantasy-Titel 62",
+      "author": "Autor 62",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_62.jpg",
+      "fileUrl": "https://example.com/epub/indie_62.epub"
+    },
+    {
+      "id": "indie_63",
+      "title": "Indie-Fantasy-Titel 63",
+      "author": "Autor 63",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_63.jpg",
+      "fileUrl": "https://example.com/epub/indie_63.epub"
+    },
+    {
+      "id": "indie_64",
+      "title": "Indie-Fantasy-Titel 64",
+      "author": "Autor 64",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_64.jpg",
+      "fileUrl": "https://example.com/epub/indie_64.epub"
+    },
+    {
+      "id": "indie_65",
+      "title": "Indie-Fantasy-Titel 65",
+      "author": "Autor 65",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_65.jpg",
+      "fileUrl": "https://example.com/epub/indie_65.epub"
+    },
+    {
+      "id": "indie_66",
+      "title": "Indie-Fantasy-Titel 66",
+      "author": "Autor 66",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_66.jpg",
+      "fileUrl": "https://example.com/epub/indie_66.epub"
+    },
+    {
+      "id": "indie_67",
+      "title": "Indie-Fantasy-Titel 67",
+      "author": "Autor 67",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_67.jpg",
+      "fileUrl": "https://example.com/epub/indie_67.epub"
+    },
+    {
+      "id": "indie_68",
+      "title": "Indie-Fantasy-Titel 68",
+      "author": "Autor 68",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_68.jpg",
+      "fileUrl": "https://example.com/epub/indie_68.epub"
+    },
+    {
+      "id": "indie_69",
+      "title": "Indie-Fantasy-Titel 69",
+      "author": "Autor 69",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_69.jpg",
+      "fileUrl": "https://example.com/epub/indie_69.epub"
+    },
+    {
+      "id": "indie_70",
+      "title": "Indie-Fantasy-Titel 70",
+      "author": "Autor 70",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_70.jpg",
+      "fileUrl": "https://example.com/epub/indie_70.epub"
+    },
+    {
+      "id": "indie_71",
+      "title": "Indie-Fantasy-Titel 71",
+      "author": "Autor 71",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_71.jpg",
+      "fileUrl": "https://example.com/epub/indie_71.epub"
+    },
+    {
+      "id": "indie_72",
+      "title": "Indie-Fantasy-Titel 72",
+      "author": "Autor 72",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_72.jpg",
+      "fileUrl": "https://example.com/epub/indie_72.epub"
+    },
+    {
+      "id": "indie_73",
+      "title": "Indie-Fantasy-Titel 73",
+      "author": "Autor 73",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_73.jpg",
+      "fileUrl": "https://example.com/epub/indie_73.epub"
+    },
+    {
+      "id": "indie_74",
+      "title": "Indie-Fantasy-Titel 74",
+      "author": "Autor 74",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_74.jpg",
+      "fileUrl": "https://example.com/epub/indie_74.epub"
+    },
+    {
+      "id": "indie_75",
+      "title": "Indie-Fantasy-Titel 75",
+      "author": "Autor 75",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_75.jpg",
+      "fileUrl": "https://example.com/epub/indie_75.epub"
+    },
+    {
+      "id": "indie_76",
+      "title": "Indie-Fantasy-Titel 76",
+      "author": "Autor 76",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_76.jpg",
+      "fileUrl": "https://example.com/epub/indie_76.epub"
+    },
+    {
+      "id": "indie_77",
+      "title": "Indie-Fantasy-Titel 77",
+      "author": "Autor 77",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_77.jpg",
+      "fileUrl": "https://example.com/epub/indie_77.epub"
+    },
+    {
+      "id": "indie_78",
+      "title": "Indie-Fantasy-Titel 78",
+      "author": "Autor 78",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_78.jpg",
+      "fileUrl": "https://example.com/epub/indie_78.epub"
+    },
+    {
+      "id": "indie_79",
+      "title": "Indie-Fantasy-Titel 79",
+      "author": "Autor 79",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_79.jpg",
+      "fileUrl": "https://example.com/epub/indie_79.epub"
+    },
+    {
+      "id": "indie_80",
+      "title": "Indie-Fantasy-Titel 80",
+      "author": "Autor 80",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_80.jpg",
+      "fileUrl": "https://example.com/epub/indie_80.epub"
+    },
+    {
+      "id": "indie_81",
+      "title": "Indie-Fantasy-Titel 81",
+      "author": "Autor 81",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_81.jpg",
+      "fileUrl": "https://example.com/epub/indie_81.epub"
+    },
+    {
+      "id": "indie_82",
+      "title": "Indie-Fantasy-Titel 82",
+      "author": "Autor 82",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_82.jpg",
+      "fileUrl": "https://example.com/epub/indie_82.epub"
+    },
+    {
+      "id": "indie_83",
+      "title": "Indie-Fantasy-Titel 83",
+      "author": "Autor 83",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_83.jpg",
+      "fileUrl": "https://example.com/epub/indie_83.epub"
+    },
+    {
+      "id": "indie_84",
+      "title": "Indie-Fantasy-Titel 84",
+      "author": "Autor 84",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_84.jpg",
+      "fileUrl": "https://example.com/epub/indie_84.epub"
+    },
+    {
+      "id": "indie_85",
+      "title": "Indie-Fantasy-Titel 85",
+      "author": "Autor 85",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_85.jpg",
+      "fileUrl": "https://example.com/epub/indie_85.epub"
+    },
+    {
+      "id": "indie_86",
+      "title": "Indie-Fantasy-Titel 86",
+      "author": "Autor 86",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_86.jpg",
+      "fileUrl": "https://example.com/epub/indie_86.epub"
+    },
+    {
+      "id": "indie_87",
+      "title": "Indie-Fantasy-Titel 87",
+      "author": "Autor 87",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_87.jpg",
+      "fileUrl": "https://example.com/epub/indie_87.epub"
+    },
+    {
+      "id": "indie_88",
+      "title": "Indie-Fantasy-Titel 88",
+      "author": "Autor 88",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_88.jpg",
+      "fileUrl": "https://example.com/epub/indie_88.epub"
+    },
+    {
+      "id": "indie_89",
+      "title": "Indie-Fantasy-Titel 89",
+      "author": "Autor 89",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_89.jpg",
+      "fileUrl": "https://example.com/epub/indie_89.epub"
+    },
+    {
+      "id": "indie_90",
+      "title": "Indie-Fantasy-Titel 90",
+      "author": "Autor 90",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_90.jpg",
+      "fileUrl": "https://example.com/epub/indie_90.epub"
+    },
+    {
+      "id": "indie_91",
+      "title": "Indie-Fantasy-Titel 91",
+      "author": "Autor 91",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_91.jpg",
+      "fileUrl": "https://example.com/epub/indie_91.epub"
+    },
+    {
+      "id": "indie_92",
+      "title": "Indie-Fantasy-Titel 92",
+      "author": "Autor 92",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_92.jpg",
+      "fileUrl": "https://example.com/epub/indie_92.epub"
+    },
+    {
+      "id": "indie_93",
+      "title": "Indie-Fantasy-Titel 93",
+      "author": "Autor 93",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_93.jpg",
+      "fileUrl": "https://example.com/epub/indie_93.epub"
+    },
+    {
+      "id": "indie_94",
+      "title": "Indie-Fantasy-Titel 94",
+      "author": "Autor 94",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_94.jpg",
+      "fileUrl": "https://example.com/epub/indie_94.epub"
+    },
+    {
+      "id": "indie_95",
+      "title": "Indie-Fantasy-Titel 95",
+      "author": "Autor 95",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_95.jpg",
+      "fileUrl": "https://example.com/epub/indie_95.epub"
+    },
+    {
+      "id": "indie_96",
+      "title": "Indie-Fantasy-Titel 96",
+      "author": "Autor 96",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_96.jpg",
+      "fileUrl": "https://example.com/epub/indie_96.epub"
+    },
+    {
+      "id": "indie_97",
+      "title": "Indie-Fantasy-Titel 97",
+      "author": "Autor 97",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_97.jpg",
+      "fileUrl": "https://example.com/epub/indie_97.epub"
+    },
+    {
+      "id": "indie_98",
+      "title": "Indie-Fantasy-Titel 98",
+      "author": "Autor 98",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_98.jpg",
+      "fileUrl": "https://example.com/epub/indie_98.epub"
+    },
+    {
+      "id": "indie_99",
+      "title": "Indie-Fantasy-Titel 99",
+      "author": "Autor 99",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_99.jpg",
+      "fileUrl": "https://example.com/epub/indie_99.epub"
+    },
+    {
+      "id": "indie_100",
+      "title": "Indie-Fantasy-Titel 100",
+      "author": "Autor 100",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_100.jpg",
+      "fileUrl": "https://example.com/epub/indie_100.epub"
+    },
+    {
+      "id": "indie_101",
+      "title": "Indie-Fantasy-Titel 101",
+      "author": "Autor 101",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_101.jpg",
+      "fileUrl": "https://example.com/epub/indie_101.epub"
+    },
+    {
+      "id": "indie_102",
+      "title": "Indie-Fantasy-Titel 102",
+      "author": "Autor 102",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_102.jpg",
+      "fileUrl": "https://example.com/epub/indie_102.epub"
+    },
+    {
+      "id": "indie_103",
+      "title": "Indie-Fantasy-Titel 103",
+      "author": "Autor 103",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_103.jpg",
+      "fileUrl": "https://example.com/epub/indie_103.epub"
+    },
+    {
+      "id": "indie_104",
+      "title": "Indie-Fantasy-Titel 104",
+      "author": "Autor 104",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_104.jpg",
+      "fileUrl": "https://example.com/epub/indie_104.epub"
+    },
+    {
+      "id": "indie_105",
+      "title": "Indie-Fantasy-Titel 105",
+      "author": "Autor 105",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_105.jpg",
+      "fileUrl": "https://example.com/epub/indie_105.epub"
+    },
+    {
+      "id": "indie_106",
+      "title": "Indie-Fantasy-Titel 106",
+      "author": "Autor 106",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_106.jpg",
+      "fileUrl": "https://example.com/epub/indie_106.epub"
+    },
+    {
+      "id": "indie_107",
+      "title": "Indie-Fantasy-Titel 107",
+      "author": "Autor 107",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_107.jpg",
+      "fileUrl": "https://example.com/epub/indie_107.epub"
+    },
+    {
+      "id": "indie_108",
+      "title": "Indie-Fantasy-Titel 108",
+      "author": "Autor 108",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_108.jpg",
+      "fileUrl": "https://example.com/epub/indie_108.epub"
+    },
+    {
+      "id": "indie_109",
+      "title": "Indie-Fantasy-Titel 109",
+      "author": "Autor 109",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_109.jpg",
+      "fileUrl": "https://example.com/epub/indie_109.epub"
+    },
+    {
+      "id": "indie_110",
+      "title": "Indie-Fantasy-Titel 110",
+      "author": "Autor 110",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_110.jpg",
+      "fileUrl": "https://example.com/epub/indie_110.epub"
+    },
+    {
+      "id": "indie_111",
+      "title": "Indie-Fantasy-Titel 111",
+      "author": "Autor 111",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_111.jpg",
+      "fileUrl": "https://example.com/epub/indie_111.epub"
+    },
+    {
+      "id": "indie_112",
+      "title": "Indie-Fantasy-Titel 112",
+      "author": "Autor 112",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_112.jpg",
+      "fileUrl": "https://example.com/epub/indie_112.epub"
+    },
+    {
+      "id": "indie_113",
+      "title": "Indie-Fantasy-Titel 113",
+      "author": "Autor 113",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_113.jpg",
+      "fileUrl": "https://example.com/epub/indie_113.epub"
+    },
+    {
+      "id": "indie_114",
+      "title": "Indie-Fantasy-Titel 114",
+      "author": "Autor 114",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_114.jpg",
+      "fileUrl": "https://example.com/epub/indie_114.epub"
+    },
+    {
+      "id": "indie_115",
+      "title": "Indie-Fantasy-Titel 115",
+      "author": "Autor 115",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_115.jpg",
+      "fileUrl": "https://example.com/epub/indie_115.epub"
+    },
+    {
+      "id": "indie_116",
+      "title": "Indie-Fantasy-Titel 116",
+      "author": "Autor 116",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_116.jpg",
+      "fileUrl": "https://example.com/epub/indie_116.epub"
+    },
+    {
+      "id": "indie_117",
+      "title": "Indie-Fantasy-Titel 117",
+      "author": "Autor 117",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_117.jpg",
+      "fileUrl": "https://example.com/epub/indie_117.epub"
+    },
+    {
+      "id": "indie_118",
+      "title": "Indie-Fantasy-Titel 118",
+      "author": "Autor 118",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_118.jpg",
+      "fileUrl": "https://example.com/epub/indie_118.epub"
+    },
+    {
+      "id": "indie_119",
+      "title": "Indie-Fantasy-Titel 119",
+      "author": "Autor 119",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_119.jpg",
+      "fileUrl": "https://example.com/epub/indie_119.epub"
+    },
+    {
+      "id": "indie_120",
+      "title": "Indie-Fantasy-Titel 120",
+      "author": "Autor 120",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_120.jpg",
+      "fileUrl": "https://example.com/epub/indie_120.epub"
+    },
+    {
+      "id": "indie_121",
+      "title": "Indie-Fantasy-Titel 121",
+      "author": "Autor 121",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_121.jpg",
+      "fileUrl": "https://example.com/epub/indie_121.epub"
+    },
+    {
+      "id": "indie_122",
+      "title": "Indie-Fantasy-Titel 122",
+      "author": "Autor 122",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_122.jpg",
+      "fileUrl": "https://example.com/epub/indie_122.epub"
+    },
+    {
+      "id": "indie_123",
+      "title": "Indie-Fantasy-Titel 123",
+      "author": "Autor 123",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_123.jpg",
+      "fileUrl": "https://example.com/epub/indie_123.epub"
+    },
+    {
+      "id": "indie_124",
+      "title": "Indie-Fantasy-Titel 124",
+      "author": "Autor 124",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_124.jpg",
+      "fileUrl": "https://example.com/epub/indie_124.epub"
+    },
+    {
+      "id": "indie_125",
+      "title": "Indie-Fantasy-Titel 125",
+      "author": "Autor 125",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_125.jpg",
+      "fileUrl": "https://example.com/epub/indie_125.epub"
+    },
+    {
+      "id": "indie_126",
+      "title": "Indie-Fantasy-Titel 126",
+      "author": "Autor 126",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_126.jpg",
+      "fileUrl": "https://example.com/epub/indie_126.epub"
+    },
+    {
+      "id": "indie_127",
+      "title": "Indie-Fantasy-Titel 127",
+      "author": "Autor 127",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_127.jpg",
+      "fileUrl": "https://example.com/epub/indie_127.epub"
+    },
+    {
+      "id": "indie_128",
+      "title": "Indie-Fantasy-Titel 128",
+      "author": "Autor 128",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_128.jpg",
+      "fileUrl": "https://example.com/epub/indie_128.epub"
+    },
+    {
+      "id": "indie_129",
+      "title": "Indie-Fantasy-Titel 129",
+      "author": "Autor 129",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_129.jpg",
+      "fileUrl": "https://example.com/epub/indie_129.epub"
+    },
+    {
+      "id": "indie_130",
+      "title": "Indie-Fantasy-Titel 130",
+      "author": "Autor 130",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_130.jpg",
+      "fileUrl": "https://example.com/epub/indie_130.epub"
+    },
+    {
+      "id": "indie_131",
+      "title": "Indie-Fantasy-Titel 131",
+      "author": "Autor 131",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_131.jpg",
+      "fileUrl": "https://example.com/epub/indie_131.epub"
+    },
+    {
+      "id": "indie_132",
+      "title": "Indie-Fantasy-Titel 132",
+      "author": "Autor 132",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_132.jpg",
+      "fileUrl": "https://example.com/epub/indie_132.epub"
+    },
+    {
+      "id": "indie_133",
+      "title": "Indie-Fantasy-Titel 133",
+      "author": "Autor 133",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_133.jpg",
+      "fileUrl": "https://example.com/epub/indie_133.epub"
+    },
+    {
+      "id": "indie_134",
+      "title": "Indie-Fantasy-Titel 134",
+      "author": "Autor 134",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_134.jpg",
+      "fileUrl": "https://example.com/epub/indie_134.epub"
+    },
+    {
+      "id": "indie_135",
+      "title": "Indie-Fantasy-Titel 135",
+      "author": "Autor 135",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_135.jpg",
+      "fileUrl": "https://example.com/epub/indie_135.epub"
+    },
+    {
+      "id": "indie_136",
+      "title": "Indie-Fantasy-Titel 136",
+      "author": "Autor 136",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_136.jpg",
+      "fileUrl": "https://example.com/epub/indie_136.epub"
+    },
+    {
+      "id": "indie_137",
+      "title": "Indie-Fantasy-Titel 137",
+      "author": "Autor 137",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_137.jpg",
+      "fileUrl": "https://example.com/epub/indie_137.epub"
+    },
+    {
+      "id": "indie_138",
+      "title": "Indie-Fantasy-Titel 138",
+      "author": "Autor 138",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_138.jpg",
+      "fileUrl": "https://example.com/epub/indie_138.epub"
+    },
+    {
+      "id": "indie_139",
+      "title": "Indie-Fantasy-Titel 139",
+      "author": "Autor 139",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_139.jpg",
+      "fileUrl": "https://example.com/epub/indie_139.epub"
+    },
+    {
+      "id": "indie_140",
+      "title": "Indie-Fantasy-Titel 140",
+      "author": "Autor 140",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_140.jpg",
+      "fileUrl": "https://example.com/epub/indie_140.epub"
+    },
+    {
+      "id": "indie_141",
+      "title": "Indie-Fantasy-Titel 141",
+      "author": "Autor 141",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_141.jpg",
+      "fileUrl": "https://example.com/epub/indie_141.epub"
+    },
+    {
+      "id": "indie_142",
+      "title": "Indie-Fantasy-Titel 142",
+      "author": "Autor 142",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_142.jpg",
+      "fileUrl": "https://example.com/epub/indie_142.epub"
+    },
+    {
+      "id": "indie_143",
+      "title": "Indie-Fantasy-Titel 143",
+      "author": "Autor 143",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_143.jpg",
+      "fileUrl": "https://example.com/epub/indie_143.epub"
+    },
+    {
+      "id": "indie_144",
+      "title": "Indie-Fantasy-Titel 144",
+      "author": "Autor 144",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_144.jpg",
+      "fileUrl": "https://example.com/epub/indie_144.epub"
+    },
+    {
+      "id": "indie_145",
+      "title": "Indie-Fantasy-Titel 145",
+      "author": "Autor 145",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_145.jpg",
+      "fileUrl": "https://example.com/epub/indie_145.epub"
+    },
+    {
+      "id": "indie_146",
+      "title": "Indie-Fantasy-Titel 146",
+      "author": "Autor 146",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_146.jpg",
+      "fileUrl": "https://example.com/epub/indie_146.epub"
+    },
+    {
+      "id": "indie_147",
+      "title": "Indie-Fantasy-Titel 147",
+      "author": "Autor 147",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_147.jpg",
+      "fileUrl": "https://example.com/epub/indie_147.epub"
+    },
+    {
+      "id": "indie_148",
+      "title": "Indie-Fantasy-Titel 148",
+      "author": "Autor 148",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.49,
+      "coverUrl": "https://example.com/covers/indie_148.jpg",
+      "fileUrl": "https://example.com/epub/indie_148.epub"
+    },
+    {
+      "id": "indie_149",
+      "title": "Indie-Fantasy-Titel 149",
+      "author": "Autor 149",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 1.99,
+      "coverUrl": "https://example.com/covers/indie_149.jpg",
+      "fileUrl": "https://example.com/epub/indie_149.epub"
+    },
+    {
+      "id": "indie_150",
+      "title": "Indie-Fantasy-Titel 150",
+      "author": "Autor 150",
+      "category": "Fantasy",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/indie_150.jpg",
+      "fileUrl": "https://example.com/epub/indie_150.epub"
+    },
+    {
+      "id": "comic_1",
+      "title": "Comic-Abenteuer 1",
+      "author": "Comic Autor 1",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_1.jpg",
+      "fileUrl": "https://example.com/epub/comic_1.epub"
+    },
+    {
+      "id": "comic_2",
+      "title": "Comic-Abenteuer 2",
+      "author": "Comic Autor 2",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_2.jpg",
+      "fileUrl": "https://example.com/epub/comic_2.epub"
+    },
+    {
+      "id": "comic_3",
+      "title": "Comic-Abenteuer 3",
+      "author": "Comic Autor 3",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_3.jpg",
+      "fileUrl": "https://example.com/epub/comic_3.epub"
+    },
+    {
+      "id": "comic_4",
+      "title": "Comic-Abenteuer 4",
+      "author": "Comic Autor 4",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_4.jpg",
+      "fileUrl": "https://example.com/epub/comic_4.epub"
+    },
+    {
+      "id": "comic_5",
+      "title": "Comic-Abenteuer 5",
+      "author": "Comic Autor 5",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_5.jpg",
+      "fileUrl": "https://example.com/epub/comic_5.epub"
+    },
+    {
+      "id": "comic_6",
+      "title": "Comic-Abenteuer 6",
+      "author": "Comic Autor 6",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_6.jpg",
+      "fileUrl": "https://example.com/epub/comic_6.epub"
+    },
+    {
+      "id": "comic_7",
+      "title": "Comic-Abenteuer 7",
+      "author": "Comic Autor 7",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_7.jpg",
+      "fileUrl": "https://example.com/epub/comic_7.epub"
+    },
+    {
+      "id": "comic_8",
+      "title": "Comic-Abenteuer 8",
+      "author": "Comic Autor 8",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_8.jpg",
+      "fileUrl": "https://example.com/epub/comic_8.epub"
+    },
+    {
+      "id": "comic_9",
+      "title": "Comic-Abenteuer 9",
+      "author": "Comic Autor 9",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_9.jpg",
+      "fileUrl": "https://example.com/epub/comic_9.epub"
+    },
+    {
+      "id": "comic_10",
+      "title": "Comic-Abenteuer 10",
+      "author": "Comic Autor 10",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_10.jpg",
+      "fileUrl": "https://example.com/epub/comic_10.epub"
+    },
+    {
+      "id": "comic_11",
+      "title": "Comic-Abenteuer 11",
+      "author": "Comic Autor 11",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_11.jpg",
+      "fileUrl": "https://example.com/epub/comic_11.epub"
+    },
+    {
+      "id": "comic_12",
+      "title": "Comic-Abenteuer 12",
+      "author": "Comic Autor 12",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_12.jpg",
+      "fileUrl": "https://example.com/epub/comic_12.epub"
+    },
+    {
+      "id": "comic_13",
+      "title": "Comic-Abenteuer 13",
+      "author": "Comic Autor 13",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_13.jpg",
+      "fileUrl": "https://example.com/epub/comic_13.epub"
+    },
+    {
+      "id": "comic_14",
+      "title": "Comic-Abenteuer 14",
+      "author": "Comic Autor 14",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_14.jpg",
+      "fileUrl": "https://example.com/epub/comic_14.epub"
+    },
+    {
+      "id": "comic_15",
+      "title": "Comic-Abenteuer 15",
+      "author": "Comic Autor 15",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_15.jpg",
+      "fileUrl": "https://example.com/epub/comic_15.epub"
+    },
+    {
+      "id": "comic_16",
+      "title": "Comic-Abenteuer 16",
+      "author": "Comic Autor 16",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_16.jpg",
+      "fileUrl": "https://example.com/epub/comic_16.epub"
+    },
+    {
+      "id": "comic_17",
+      "title": "Comic-Abenteuer 17",
+      "author": "Comic Autor 17",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_17.jpg",
+      "fileUrl": "https://example.com/epub/comic_17.epub"
+    },
+    {
+      "id": "comic_18",
+      "title": "Comic-Abenteuer 18",
+      "author": "Comic Autor 18",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_18.jpg",
+      "fileUrl": "https://example.com/epub/comic_18.epub"
+    },
+    {
+      "id": "comic_19",
+      "title": "Comic-Abenteuer 19",
+      "author": "Comic Autor 19",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_19.jpg",
+      "fileUrl": "https://example.com/epub/comic_19.epub"
+    },
+    {
+      "id": "comic_20",
+      "title": "Comic-Abenteuer 20",
+      "author": "Comic Autor 20",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_20.jpg",
+      "fileUrl": "https://example.com/epub/comic_20.epub"
+    },
+    {
+      "id": "comic_21",
+      "title": "Comic-Abenteuer 21",
+      "author": "Comic Autor 21",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_21.jpg",
+      "fileUrl": "https://example.com/epub/comic_21.epub"
+    },
+    {
+      "id": "comic_22",
+      "title": "Comic-Abenteuer 22",
+      "author": "Comic Autor 22",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_22.jpg",
+      "fileUrl": "https://example.com/epub/comic_22.epub"
+    },
+    {
+      "id": "comic_23",
+      "title": "Comic-Abenteuer 23",
+      "author": "Comic Autor 23",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_23.jpg",
+      "fileUrl": "https://example.com/epub/comic_23.epub"
+    },
+    {
+      "id": "comic_24",
+      "title": "Comic-Abenteuer 24",
+      "author": "Comic Autor 24",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_24.jpg",
+      "fileUrl": "https://example.com/epub/comic_24.epub"
+    },
+    {
+      "id": "comic_25",
+      "title": "Comic-Abenteuer 25",
+      "author": "Comic Autor 25",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_25.jpg",
+      "fileUrl": "https://example.com/epub/comic_25.epub"
+    },
+    {
+      "id": "comic_26",
+      "title": "Comic-Abenteuer 26",
+      "author": "Comic Autor 26",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_26.jpg",
+      "fileUrl": "https://example.com/epub/comic_26.epub"
+    },
+    {
+      "id": "comic_27",
+      "title": "Comic-Abenteuer 27",
+      "author": "Comic Autor 27",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_27.jpg",
+      "fileUrl": "https://example.com/epub/comic_27.epub"
+    },
+    {
+      "id": "comic_28",
+      "title": "Comic-Abenteuer 28",
+      "author": "Comic Autor 28",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_28.jpg",
+      "fileUrl": "https://example.com/epub/comic_28.epub"
+    },
+    {
+      "id": "comic_29",
+      "title": "Comic-Abenteuer 29",
+      "author": "Comic Autor 29",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_29.jpg",
+      "fileUrl": "https://example.com/epub/comic_29.epub"
+    },
+    {
+      "id": "comic_30",
+      "title": "Comic-Abenteuer 30",
+      "author": "Comic Autor 30",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_30.jpg",
+      "fileUrl": "https://example.com/epub/comic_30.epub"
+    },
+    {
+      "id": "comic_31",
+      "title": "Comic-Abenteuer 31",
+      "author": "Comic Autor 31",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_31.jpg",
+      "fileUrl": "https://example.com/epub/comic_31.epub"
+    },
+    {
+      "id": "comic_32",
+      "title": "Comic-Abenteuer 32",
+      "author": "Comic Autor 32",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_32.jpg",
+      "fileUrl": "https://example.com/epub/comic_32.epub"
+    },
+    {
+      "id": "comic_33",
+      "title": "Comic-Abenteuer 33",
+      "author": "Comic Autor 33",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_33.jpg",
+      "fileUrl": "https://example.com/epub/comic_33.epub"
+    },
+    {
+      "id": "comic_34",
+      "title": "Comic-Abenteuer 34",
+      "author": "Comic Autor 34",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_34.jpg",
+      "fileUrl": "https://example.com/epub/comic_34.epub"
+    },
+    {
+      "id": "comic_35",
+      "title": "Comic-Abenteuer 35",
+      "author": "Comic Autor 35",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_35.jpg",
+      "fileUrl": "https://example.com/epub/comic_35.epub"
+    },
+    {
+      "id": "comic_36",
+      "title": "Comic-Abenteuer 36",
+      "author": "Comic Autor 36",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_36.jpg",
+      "fileUrl": "https://example.com/epub/comic_36.epub"
+    },
+    {
+      "id": "comic_37",
+      "title": "Comic-Abenteuer 37",
+      "author": "Comic Autor 37",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_37.jpg",
+      "fileUrl": "https://example.com/epub/comic_37.epub"
+    },
+    {
+      "id": "comic_38",
+      "title": "Comic-Abenteuer 38",
+      "author": "Comic Autor 38",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_38.jpg",
+      "fileUrl": "https://example.com/epub/comic_38.epub"
+    },
+    {
+      "id": "comic_39",
+      "title": "Comic-Abenteuer 39",
+      "author": "Comic Autor 39",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_39.jpg",
+      "fileUrl": "https://example.com/epub/comic_39.epub"
+    },
+    {
+      "id": "comic_40",
+      "title": "Comic-Abenteuer 40",
+      "author": "Comic Autor 40",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_40.jpg",
+      "fileUrl": "https://example.com/epub/comic_40.epub"
+    },
+    {
+      "id": "comic_41",
+      "title": "Comic-Abenteuer 41",
+      "author": "Comic Autor 41",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_41.jpg",
+      "fileUrl": "https://example.com/epub/comic_41.epub"
+    },
+    {
+      "id": "comic_42",
+      "title": "Comic-Abenteuer 42",
+      "author": "Comic Autor 42",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_42.jpg",
+      "fileUrl": "https://example.com/epub/comic_42.epub"
+    },
+    {
+      "id": "comic_43",
+      "title": "Comic-Abenteuer 43",
+      "author": "Comic Autor 43",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_43.jpg",
+      "fileUrl": "https://example.com/epub/comic_43.epub"
+    },
+    {
+      "id": "comic_44",
+      "title": "Comic-Abenteuer 44",
+      "author": "Comic Autor 44",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_44.jpg",
+      "fileUrl": "https://example.com/epub/comic_44.epub"
+    },
+    {
+      "id": "comic_45",
+      "title": "Comic-Abenteuer 45",
+      "author": "Comic Autor 45",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_45.jpg",
+      "fileUrl": "https://example.com/epub/comic_45.epub"
+    },
+    {
+      "id": "comic_46",
+      "title": "Comic-Abenteuer 46",
+      "author": "Comic Autor 46",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_46.jpg",
+      "fileUrl": "https://example.com/epub/comic_46.epub"
+    },
+    {
+      "id": "comic_47",
+      "title": "Comic-Abenteuer 47",
+      "author": "Comic Autor 47",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_47.jpg",
+      "fileUrl": "https://example.com/epub/comic_47.epub"
+    },
+    {
+      "id": "comic_48",
+      "title": "Comic-Abenteuer 48",
+      "author": "Comic Autor 48",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_48.jpg",
+      "fileUrl": "https://example.com/epub/comic_48.epub"
+    },
+    {
+      "id": "comic_49",
+      "title": "Comic-Abenteuer 49",
+      "author": "Comic Autor 49",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_49.jpg",
+      "fileUrl": "https://example.com/epub/comic_49.epub"
+    },
+    {
+      "id": "comic_50",
+      "title": "Comic-Abenteuer 50",
+      "author": "Comic Autor 50",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_50.jpg",
+      "fileUrl": "https://example.com/epub/comic_50.epub"
+    },
+    {
+      "id": "comic_51",
+      "title": "Comic-Abenteuer 51",
+      "author": "Comic Autor 51",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_51.jpg",
+      "fileUrl": "https://example.com/epub/comic_51.epub"
+    },
+    {
+      "id": "comic_52",
+      "title": "Comic-Abenteuer 52",
+      "author": "Comic Autor 52",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_52.jpg",
+      "fileUrl": "https://example.com/epub/comic_52.epub"
+    },
+    {
+      "id": "comic_53",
+      "title": "Comic-Abenteuer 53",
+      "author": "Comic Autor 53",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_53.jpg",
+      "fileUrl": "https://example.com/epub/comic_53.epub"
+    },
+    {
+      "id": "comic_54",
+      "title": "Comic-Abenteuer 54",
+      "author": "Comic Autor 54",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_54.jpg",
+      "fileUrl": "https://example.com/epub/comic_54.epub"
+    },
+    {
+      "id": "comic_55",
+      "title": "Comic-Abenteuer 55",
+      "author": "Comic Autor 55",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_55.jpg",
+      "fileUrl": "https://example.com/epub/comic_55.epub"
+    },
+    {
+      "id": "comic_56",
+      "title": "Comic-Abenteuer 56",
+      "author": "Comic Autor 56",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_56.jpg",
+      "fileUrl": "https://example.com/epub/comic_56.epub"
+    },
+    {
+      "id": "comic_57",
+      "title": "Comic-Abenteuer 57",
+      "author": "Comic Autor 57",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_57.jpg",
+      "fileUrl": "https://example.com/epub/comic_57.epub"
+    },
+    {
+      "id": "comic_58",
+      "title": "Comic-Abenteuer 58",
+      "author": "Comic Autor 58",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_58.jpg",
+      "fileUrl": "https://example.com/epub/comic_58.epub"
+    },
+    {
+      "id": "comic_59",
+      "title": "Comic-Abenteuer 59",
+      "author": "Comic Autor 59",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_59.jpg",
+      "fileUrl": "https://example.com/epub/comic_59.epub"
+    },
+    {
+      "id": "comic_60",
+      "title": "Comic-Abenteuer 60",
+      "author": "Comic Autor 60",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_60.jpg",
+      "fileUrl": "https://example.com/epub/comic_60.epub"
+    },
+    {
+      "id": "comic_61",
+      "title": "Comic-Abenteuer 61",
+      "author": "Comic Autor 61",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_61.jpg",
+      "fileUrl": "https://example.com/epub/comic_61.epub"
+    },
+    {
+      "id": "comic_62",
+      "title": "Comic-Abenteuer 62",
+      "author": "Comic Autor 62",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_62.jpg",
+      "fileUrl": "https://example.com/epub/comic_62.epub"
+    },
+    {
+      "id": "comic_63",
+      "title": "Comic-Abenteuer 63",
+      "author": "Comic Autor 63",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_63.jpg",
+      "fileUrl": "https://example.com/epub/comic_63.epub"
+    },
+    {
+      "id": "comic_64",
+      "title": "Comic-Abenteuer 64",
+      "author": "Comic Autor 64",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_64.jpg",
+      "fileUrl": "https://example.com/epub/comic_64.epub"
+    },
+    {
+      "id": "comic_65",
+      "title": "Comic-Abenteuer 65",
+      "author": "Comic Autor 65",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_65.jpg",
+      "fileUrl": "https://example.com/epub/comic_65.epub"
+    },
+    {
+      "id": "comic_66",
+      "title": "Comic-Abenteuer 66",
+      "author": "Comic Autor 66",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_66.jpg",
+      "fileUrl": "https://example.com/epub/comic_66.epub"
+    },
+    {
+      "id": "comic_67",
+      "title": "Comic-Abenteuer 67",
+      "author": "Comic Autor 67",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_67.jpg",
+      "fileUrl": "https://example.com/epub/comic_67.epub"
+    },
+    {
+      "id": "comic_68",
+      "title": "Comic-Abenteuer 68",
+      "author": "Comic Autor 68",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_68.jpg",
+      "fileUrl": "https://example.com/epub/comic_68.epub"
+    },
+    {
+      "id": "comic_69",
+      "title": "Comic-Abenteuer 69",
+      "author": "Comic Autor 69",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_69.jpg",
+      "fileUrl": "https://example.com/epub/comic_69.epub"
+    },
+    {
+      "id": "comic_70",
+      "title": "Comic-Abenteuer 70",
+      "author": "Comic Autor 70",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_70.jpg",
+      "fileUrl": "https://example.com/epub/comic_70.epub"
+    },
+    {
+      "id": "comic_71",
+      "title": "Comic-Abenteuer 71",
+      "author": "Comic Autor 71",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_71.jpg",
+      "fileUrl": "https://example.com/epub/comic_71.epub"
+    },
+    {
+      "id": "comic_72",
+      "title": "Comic-Abenteuer 72",
+      "author": "Comic Autor 72",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_72.jpg",
+      "fileUrl": "https://example.com/epub/comic_72.epub"
+    },
+    {
+      "id": "comic_73",
+      "title": "Comic-Abenteuer 73",
+      "author": "Comic Autor 73",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_73.jpg",
+      "fileUrl": "https://example.com/epub/comic_73.epub"
+    },
+    {
+      "id": "comic_74",
+      "title": "Comic-Abenteuer 74",
+      "author": "Comic Autor 74",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_74.jpg",
+      "fileUrl": "https://example.com/epub/comic_74.epub"
+    },
+    {
+      "id": "comic_75",
+      "title": "Comic-Abenteuer 75",
+      "author": "Comic Autor 75",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_75.jpg",
+      "fileUrl": "https://example.com/epub/comic_75.epub"
+    },
+    {
+      "id": "comic_76",
+      "title": "Comic-Abenteuer 76",
+      "author": "Comic Autor 76",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_76.jpg",
+      "fileUrl": "https://example.com/epub/comic_76.epub"
+    },
+    {
+      "id": "comic_77",
+      "title": "Comic-Abenteuer 77",
+      "author": "Comic Autor 77",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_77.jpg",
+      "fileUrl": "https://example.com/epub/comic_77.epub"
+    },
+    {
+      "id": "comic_78",
+      "title": "Comic-Abenteuer 78",
+      "author": "Comic Autor 78",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_78.jpg",
+      "fileUrl": "https://example.com/epub/comic_78.epub"
+    },
+    {
+      "id": "comic_79",
+      "title": "Comic-Abenteuer 79",
+      "author": "Comic Autor 79",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_79.jpg",
+      "fileUrl": "https://example.com/epub/comic_79.epub"
+    },
+    {
+      "id": "comic_80",
+      "title": "Comic-Abenteuer 80",
+      "author": "Comic Autor 80",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_80.jpg",
+      "fileUrl": "https://example.com/epub/comic_80.epub"
+    },
+    {
+      "id": "comic_81",
+      "title": "Comic-Abenteuer 81",
+      "author": "Comic Autor 81",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_81.jpg",
+      "fileUrl": "https://example.com/epub/comic_81.epub"
+    },
+    {
+      "id": "comic_82",
+      "title": "Comic-Abenteuer 82",
+      "author": "Comic Autor 82",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_82.jpg",
+      "fileUrl": "https://example.com/epub/comic_82.epub"
+    },
+    {
+      "id": "comic_83",
+      "title": "Comic-Abenteuer 83",
+      "author": "Comic Autor 83",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_83.jpg",
+      "fileUrl": "https://example.com/epub/comic_83.epub"
+    },
+    {
+      "id": "comic_84",
+      "title": "Comic-Abenteuer 84",
+      "author": "Comic Autor 84",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_84.jpg",
+      "fileUrl": "https://example.com/epub/comic_84.epub"
+    },
+    {
+      "id": "comic_85",
+      "title": "Comic-Abenteuer 85",
+      "author": "Comic Autor 85",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_85.jpg",
+      "fileUrl": "https://example.com/epub/comic_85.epub"
+    },
+    {
+      "id": "comic_86",
+      "title": "Comic-Abenteuer 86",
+      "author": "Comic Autor 86",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_86.jpg",
+      "fileUrl": "https://example.com/epub/comic_86.epub"
+    },
+    {
+      "id": "comic_87",
+      "title": "Comic-Abenteuer 87",
+      "author": "Comic Autor 87",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_87.jpg",
+      "fileUrl": "https://example.com/epub/comic_87.epub"
+    },
+    {
+      "id": "comic_88",
+      "title": "Comic-Abenteuer 88",
+      "author": "Comic Autor 88",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_88.jpg",
+      "fileUrl": "https://example.com/epub/comic_88.epub"
+    },
+    {
+      "id": "comic_89",
+      "title": "Comic-Abenteuer 89",
+      "author": "Comic Autor 89",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_89.jpg",
+      "fileUrl": "https://example.com/epub/comic_89.epub"
+    },
+    {
+      "id": "comic_90",
+      "title": "Comic-Abenteuer 90",
+      "author": "Comic Autor 90",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_90.jpg",
+      "fileUrl": "https://example.com/epub/comic_90.epub"
+    },
+    {
+      "id": "comic_91",
+      "title": "Comic-Abenteuer 91",
+      "author": "Comic Autor 91",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_91.jpg",
+      "fileUrl": "https://example.com/epub/comic_91.epub"
+    },
+    {
+      "id": "comic_92",
+      "title": "Comic-Abenteuer 92",
+      "author": "Comic Autor 92",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_92.jpg",
+      "fileUrl": "https://example.com/epub/comic_92.epub"
+    },
+    {
+      "id": "comic_93",
+      "title": "Comic-Abenteuer 93",
+      "author": "Comic Autor 93",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_93.jpg",
+      "fileUrl": "https://example.com/epub/comic_93.epub"
+    },
+    {
+      "id": "comic_94",
+      "title": "Comic-Abenteuer 94",
+      "author": "Comic Autor 94",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_94.jpg",
+      "fileUrl": "https://example.com/epub/comic_94.epub"
+    },
+    {
+      "id": "comic_95",
+      "title": "Comic-Abenteuer 95",
+      "author": "Comic Autor 95",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_95.jpg",
+      "fileUrl": "https://example.com/epub/comic_95.epub"
+    },
+    {
+      "id": "comic_96",
+      "title": "Comic-Abenteuer 96",
+      "author": "Comic Autor 96",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_96.jpg",
+      "fileUrl": "https://example.com/epub/comic_96.epub"
+    },
+    {
+      "id": "comic_97",
+      "title": "Comic-Abenteuer 97",
+      "author": "Comic Autor 97",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_97.jpg",
+      "fileUrl": "https://example.com/epub/comic_97.epub"
+    },
+    {
+      "id": "comic_98",
+      "title": "Comic-Abenteuer 98",
+      "author": "Comic Autor 98",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_98.jpg",
+      "fileUrl": "https://example.com/epub/comic_98.epub"
+    },
+    {
+      "id": "comic_99",
+      "title": "Comic-Abenteuer 99",
+      "author": "Comic Autor 99",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_99.jpg",
+      "fileUrl": "https://example.com/epub/comic_99.epub"
+    },
+    {
+      "id": "comic_100",
+      "title": "Comic-Abenteuer 100",
+      "author": "Comic Autor 100",
+      "category": "Comics / Kinder & Jugend",
+      "type": "indie",
+      "price": 0.99,
+      "coverUrl": "https://example.com/covers/comic_100.jpg",
+      "fileUrl": "https://example.com/epub/comic_100.epub"
+    }
+  ]
+}
